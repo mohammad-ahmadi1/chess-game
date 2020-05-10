@@ -1,0 +1,21 @@
+#wrapper {
+    width: 100%;
+
+}
+.board {
+    width: 400px;
+    display: inline-block;
+    margin-left: 20%;
+    margin-top: 40px; 
+}
+
+.info {
+    display: inline-block;
+    width: 400px;
+    margin: auto;
+}
+
+.move-history {
+    max-height: 100px;
+    overflow-y: scroll;
+}
